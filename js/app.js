@@ -607,7 +607,7 @@ document.addEventListener('DOMContentLoaded', () => {
             orderTotal += serviceFee;
         }
         orderMessage += `%0A*Total do Pedido: ${formatCurrency(orderTotal)}*`;
-        window.open(`https://wa.me/5585988359720?text=${orderMessage}`, '_blank');
+        window.open(`https://wa.me/5585992075321?text=${orderMessage}`, '_blank');
     };
 
     // --- EVENT LISTENERS ---
