@@ -38,7 +38,7 @@ const showToast = (message) => {
 
 // --- CONFIGURAÇÕES ---
 const ADMIN_PASSWORD_HASH = '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9';
-const WHATSAPP_NUMBER = '5585988359720';
+const WHATSAPP_NUMBER = '5585992075321';
 const ADMIN_EMAIL = 'cristianofrontend@hotmail.com'; // Exposto para recuperação de senha
 
 document.addEventListener('DOMContentLoaded', () => {
